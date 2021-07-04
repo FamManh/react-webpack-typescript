@@ -3,7 +3,6 @@ import './app.css'
 import Logo from './logo.png'
 
 const App = () => {
-  const name = 'Manh'
   return (
     <div>
       <h1>
